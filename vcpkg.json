@@ -37,6 +37,10 @@
       "name": "tinyxml2",
       "version>=": "9.0.0",
       "platform": "!linux"
+    },
+    {
+      "name": "qt5-svg",
+      "version>=": "5.15.5"
     }
   ],
   "builtin-baseline": "15a0ab7a3e62e62c29bc677589e8974fe401a436",
